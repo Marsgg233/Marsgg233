@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="center">Hi,&#128126; my name is Marcel</h1>
+<h1 align="center">Hi,&#128126; my name is Marsel</h1>
 
 ###
 
